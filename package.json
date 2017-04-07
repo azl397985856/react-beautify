@@ -67,7 +67,7 @@
     "esformatter": "^0.9.6",
     "esformatter-jsx": "^7.0.1",
     "lodash": "^4.16.0",
-    "prettydiff": "^1.16.37",
+    "prettydiff": "^2.1.17",
     "resolve-from": "^2.0.0",
     "strip-json-comments": "^2.0.1"
   },
