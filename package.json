@@ -64,7 +64,7 @@
     "postinstall": "node ./node_modules/vscode/bin/install"
   },
   "dependencies": {
-    "esformatter": "^0.9.6",
+    "esformatter": "^0.11.0",
     "esformatter-jsx": "^7.0.1",
     "lodash": "^4.16.0",
     "prettydiff": "^2.1.17",
